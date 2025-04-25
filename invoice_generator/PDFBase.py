@@ -1,4 +1,4 @@
-from fpdf import FPDF
+from fpdf import FPDF2
 from config import FONT_REGULAR, FONT_BOLD, FONT_ITALIC
 
 class PDFBase:
